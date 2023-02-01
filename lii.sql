@@ -1,4 +1,4 @@
-create DATABASE lim;
+create DATABASE lii;
 
 CREATE TABLE profile
 (
